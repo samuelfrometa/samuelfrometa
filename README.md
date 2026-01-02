@@ -3,8 +3,8 @@
 [Portafolio Web](https://samuelfrometa.me)
 
 > ABOUT ME
-┌──(selnull@NULL)-[~]
-└─$ cat about-me
+>┌──(selnull@NULL)-[~]
+>└─$ cat about-me
 >
 
 Soy Samuel, entusiasta de la tecnología y desarrollador en constante aprendizaje. En este espacio comparto mi evolución como desarrollador de software y videojuegos, documentando proyectos, aprendizajes y avances reales desde cero.
